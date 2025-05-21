@@ -13,15 +13,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   npm install -g @angular/cli
 
 Steps to Run the Application
-1) Clone the repository: git clone your-repo-url  cd your-project-folder
+1) Clone the repository: 1) git clone your-repo-url  2) cd your-project-folder
 2) Install dependencies: npm install
 
 Notes:
-1) Product data is loaded asynchronously from a local JSON file located at src/assets/products.json.
+1) Tailwind CSS is used for styling and is built automatically during the development server run.
 
-2) Tailwind CSS is used for styling and is built automatically during the development server run.
-
-3) The application uses Angular 16 standalone components and modern dependency injection patterns.
+2) The application uses Angular 16 standalone components and modern dependency injection patterns.
 
 
 ## Development server
