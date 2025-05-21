@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1200,
+    "description": "A powerful laptop.",
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 800,
+    "description": "A smart phone.",
+    "isAvailable": true
+  },
+  {
+    "id": 3,
+    "name": "Tablet",
+    "price": 500,
+    "description": "A handy tablet.",
+    "isAvailable": false
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 200,
+    "description": "A stylish smartwatch.",
+    "isAvailable": true
+  },
+  {
+    "id": 5,
+    "name": "Headphones",
+    "price": 150,
+    "description": "Noise-cancelling headphones.",
+    "isAvailable": true
+  },
+  {
+    "id": 6,
+    "name": "Charger",
+    "price": 20,
+    "description": "Fast charger.",
+    "isAvailable": true
+  },
+  {
+    "id": 7,
+    "name": "Monitor",
+    "price": 300,
+    "description": "High-resolution monitor.",
+    "isAvailable": false
+  },
+  {
+    "id": 8,
+    "name": "Keyboard",
+    "price": 50,
+    "description": "Mechanical keyboard.",
+    "isAvailable": true
+  },
+  {
+    "id": 9,
+    "name": "Mouse",
+    "price": 30,
+    "description": "Wireless mouse.",
+    "isAvailable": true
+  },
+  {
+    "id": 10,
+    "name": "Webcam",
+    "price": 100,
+    "description": "HD webcam.",
+    "isAvailable": true
+  },
+  {
+    "id": 11,
+    "name": "Printer",
+    "price": 250,
+    "description": "All-in-one printer.",
+    "isAvailable": false
+  },
+  {
+    "id": 12,
+    "name": "Router",
+    "price": 80,
+    "description": "High-speed router.",
+    "isAvailable": true
+  },
+  {
+    "id": 13,
+    "name": "External Hard Drive",
+    "price": 120,
+    "description": "1TB external hard drive.",
+    "isAvailable": true
+  },
+  {
+    "id": 14,
+    "name": "USB Flash Drive",
+    "price": 15,
+    "description": "32GB USB flash drive.",
+    "isAvailable": true
+  },
+  {
+    "id": 15,
+    "name": "Graphics Card",
+    "price": 600,
+    "description": "High-performance graphics card.",
+    "isAvailable": false
+  },
+  {
+    "id": 16,
+    "name": "SSD",
+    "price": 200,
+    "description": "500GB SSD.",
+    "isAvailable": true
+  },
+  {
+    "id": 17,
+    "name": "RAM",
+    "price": 100,
+    "description": "16GB RAM.",
+    "isAvailable": true
+  },
+  {
+    "id": 18,
+    "name": "Motherboard",
+    "price": 250,
+    "description": "Gaming motherboard.",
+    "isAvailable": false
+  },
+  {
+    "id": 19,
+    "name": "Power Supply",
+    "price": 80,
+    "description": "500W power supply.",
+    "isAvailable": true
+  },
+  {
+    "id": 20,
+    "name": "Cooling Fan",
+    "price": 30,
+    "description": "High-performance cooling fan.",
+    "isAvailable": true
+  },
+  {
+    "id": 21,
+    "name": "Case",
+    "price": 70,
+    "description": "Gaming case.",
+    "isAvailable": true
+  },
+  {
+    "id": 22,
+    "name": "Mouse Pad",
+    "price": 10,
+    "description": "Large mouse pad.",
+    "isAvailable": true
+  },
+  {
+    "id": 23,
+    "name": "Laptop Stand",
+    "price": 25,
+    "description": "Adjustable laptop stand.",
+    "isAvailable": true
+  },
+  {
+    "id": 24,
+    "name": "Webcam Cover",
+    "price": 5,
+    "description": "Protect your privacy.",
+    "isAvailable": true
+  },
+  {
+    "id": 25,
+    "name": "Cable Organizer",
+    "price": 15,
+    "description": "Keep your cables tidy.",
+    "isAvailable": true
+  },
+  {
+    "id": 26,
+    "name": "Screen Protector",
+    "price": 10,
+    "description": "Protect your screen.",
+    "isAvailable": true
+  },
+  {
+    "id": 27,
+    "name": "Laptop Sleeve",
+    "price": 20,
+    "description": "Protective sleeve for your laptop.",
+    "isAvailable": true
+  },
+  {
+    "id": 28,
+    "name": "Bluetooth Speaker",
+    "price": 60,
+    "description": "Portable Bluetooth speaker.",
+    "isAvailable": true
+  },
+  {
+    "id": 29,
+    "name": "Smart Home Hub",
+    "price": 100,
+    "description": "Control your smart home devices.",
+    "isAvailable": true
+  },
+  {
+    "id": 30,
+    "name": "Smart Light Bulb",
+    "price": 15,
+    "description": "Smart LED light bulb.",
+    "isAvailable": true
+  },
+  {
+    "id": 31,
+    "name": "Smart Thermostat",
+    "price": 150,
+    "description": "Smart thermostat for energy savings.",
+    "isAvailable": true
+  },
+  {
+    "id": 32,
+    "name": "Smart Door Lock",
+    "price": 200,
+    "description": "Keyless smart door lock.",
+    "isAvailable": true
+  }
+]

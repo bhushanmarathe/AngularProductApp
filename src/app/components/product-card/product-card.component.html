@@ -1,0 +1,12 @@
+<div
+  [class]="
+    'cursor-pointer rounded-lg p-4 shadow hover:shadow-lg transition-shadow ' +
+    bgColorClass
+  "
+  (click)="onViewDetails()"
+>
+  <h3>{{ product.name }}</h3>
+  <p>Price: ${{ product.price }}</p>
+  <p>{{ product.description }}</p>
+  <!-- <button (click)="onViewDetails()">View Details</button> -->
+</div>

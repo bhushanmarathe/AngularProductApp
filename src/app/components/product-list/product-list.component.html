@@ -1,0 +1,17 @@
+<div
+  class="product-list grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 p-6"
+>
+  <div *ngFor="let product of products; let i = index">
+    <app-product-card
+      [product]="product"
+      (viewDetails)="onViewDetails($event)"
+      [bgColorClass]="getColorClass(product.id)"
+    >
+      <!-- [bgColorClass]="getColorClass(i)" -->
+
+      <h3 class="text-lg font-semibold">{{ product.name }}</h3>
+      <p class="text-gray-700">Price: ${{ product.price }}</p>
+      <p class="text-gray-600">{{ product.description }}</p>
+    </app-product-card>
+  </div>
+</div>
