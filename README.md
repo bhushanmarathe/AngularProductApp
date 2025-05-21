@@ -13,7 +13,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   npm install -g @angular/cli
 
 Steps to Run the Application
-1) Clone the repository: git clone <your-repo-url>  cd <your-project-folder>
+1) Clone the repository: git clone your-repo-url  cd your-project-folder
 2) Install dependencies: npm install
 
 Notes:
