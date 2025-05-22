@@ -1,14 +1,11 @@
 import { Injectable } from '@angular/core';
 import { Observable, of } from 'rxjs';
 import { Product } from '../models/product.model';
-// import { HttpClient } from '@angular/common/http';
 
 @Injectable({
   providedIn: 'root',
 })
 export class ProductService {
-  // private productsUrl = './assets/products.json';
-  //constructor(private http: HttpClient) {}
   private products: Product[] = [
     {
       id: 1,
@@ -85,21 +82,10 @@ export class ProductService {
   ];
 
   getProducts(): Observable<Product[]> {
-    //this is for the mock data
     return of(this.products);
   }
 
   getProductById(id: number): Observable<Product | undefined> {
     return of(this.products.find((p) => p.id === id));
   }
-
-  //   getProducts(): Observable<Product[]> {
-  //     return this.http.get<Product[]>(this.productsUrl);
-  //   }
-
-  //   getProductById(id: number): Observable<Product | undefined> {
-  //     return this.getProducts().pipe(
-  //       map((products: any[]) => products.find((product) => product.id === id))
-  //     );
-  //   }
 }
